@@ -1,0 +1,21 @@
+JMG TECH — NUEVA WEB RESPONSIVE
+
+Archivos:
+- index.html: página web completa, con estilos y funciones incluidos.
+- logo-jmg-tech.png: logo preparado para fondo transparente (revísalo antes de publicar; si tienes el logo original en PNG transparente, reemplaza este archivo conservando el mismo nombre).
+
+PUBLICACIÓN EN GITHUB PAGES
+1. Descarga y descomprime este ZIP en tu computadora.
+2. Entra al repositorio de tu página JMG Tech.
+3. Sube/reemplaza index.html y logo-jmg-tech.png en la raíz del repositorio.
+4. Haz clic en Commit changes para guardar los cambios.
+5. Espera uno o dos minutos y recarga la página con Ctrl + F5.
+
+INTERACTIVIDAD
+- Menú adaptable a móviles.
+- Enlaces de servicios y productos que preparan la consulta.
+- Formulario de cotización que abre WhatsApp con los datos escritos.
+- Botones de WhatsApp.
+
+IMPORTANTE
+La página usa el número de WhatsApp 994 956 355 (+51 994 956 355). Confirma que sea el número correcto antes de publicar. El formulario no guarda los datos: prepara un mensaje en WhatsApp para que el visitante lo revise y lo envíe.
