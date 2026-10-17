@@ -1,11 +1,11 @@
-JMG TECH — ACTUALIZACIÓN INTERACTIVA PARA GITHUB PAGES
+JMG TECH - SITIO WEB ACTUALIZADO
 
-Incluye index.html, logo-jmg-tech.png (PNG con transparencia) y estas instrucciones.
+Archivos:
+- index.html: página web con catálogo de 12 servicios/productos, búsqueda y filtros.
+- logo-jmg-tech.png: logo.
+- laptop.svg, printer.svg, camera.svg, accessory.svg: ilustraciones locales del catálogo.
 
-Funciones: formulario de cotización por WhatsApp; catálogo con búsqueda y filtros para computadoras, impresoras, cámaras y accesorios; galería ilustrativa de áreas de trabajo; preguntas frecuentes desplegables; mapa de referencia de Sullana, Piura; diseño adaptable.
+Para publicar: sube todos estos archivos a la misma carpeta del repositorio GitHub Pages que contiene index.html y confirma los cambios.
+WhatsApp de contacto: 994 563 553 (wa.me/51994563553).
 
-Datos confirmados: WhatsApp 994 563 553; enlace https://wa.me/51994563553; zona de atención Sullana – Piura, Perú.
-
-Para publicar: descomprime el ZIP; en el repositorio GitHub Pages reemplaza index.html y sube/reemplaza logo-jmg-tech.png en la misma raíz; pulsa Commit changes; espera unos minutos y presiona Ctrl + F5 si ves la versión anterior.
-
-Importante: los dos archivos deben quedar juntos en la raíz del repositorio. El formulario prepara un mensaje y abre WhatsApp, no guarda datos. El mapa es de referencia, no una dirección comercial exacta. La galería es ilustrativa y no representa fotos documentales de trabajos realizados.
+Las imágenes son ilustraciones de referencia, no fotografías de modelos o stock real. No se muestran precios inventados; se consulta disponibilidad por WhatsApp.
