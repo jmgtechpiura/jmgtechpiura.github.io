@@ -1,11 +1,36 @@
-JMG TECH — Sitio web inicial
+JMG TECH — ACTUALIZACIÓN DE LA PÁGINA WEB
+==========================================
 
-Abre index.html en Chrome o Edge para probarlo.
-La página se adapta a celular y computadora, incluye menú interactivo, secciones de servicios y productos, botones de consulta y formulario que prepara un mensaje para WhatsApp.
+ARCHIVOS
+- index.html: página web completa, adaptable a computadora y celular.
+- LEEME_JMG_Tech.txt: estas instrucciones.
 
-Datos:
-Joel Maldonado García
-WhatsApp: 994 563 553
-Ubicación: Sullana - Piura, Perú
+MEJORAS INCLUIDAS
+- Diseño moderno con azul oscuro, degradados cian y botones verdes.
+- Iconos SVG integrados en el HTML y botón flotante de WhatsApp.
+- Menú adaptable para celulares.
+- Secciones Inicio, Servicios, Productos, Nosotros y Contacto.
+- Formulario que abre WhatsApp con el mensaje preparado.
+- Sin imágenes ni bibliotecas externas obligatorias.
 
-Los productos son categorías de ejemplo y no incluyen precios ni stock inventados. Esta versión no procesa pagos ni guarda pedidos en una base de datos.
+REPOSITORIO DE GITHUB PAGES
+https://github.com/jmgtechpiura/jmgtechpiura.github.io
+
+CÓMO REEMPLAZAR EL ARCHIVO
+1. Descarga y extrae el ZIP.
+2. Abre el repositorio de arriba en GitHub.
+3. Guarda una copia del index.html anterior como respaldo.
+4. En el repositorio, abre index.html y pulsa el lápiz (Edit this file).
+5. Selecciona todo el contenido anterior y reemplázalo por el contenido del nuevo index.html.
+6. Pulsa Commit changes para guardar. Alternativamente, usa Add file > Upload files para subir el nuevo index.html a la raíz y confirma los cambios.
+7. Comprueba que el archivo se llame exactamente index.html y quede en la raíz, no dentro de una carpeta.
+8. Espera unos minutos y visita https://jmgtechpiura.github.io/. Si ves la versión anterior, pulsa Ctrl+F5.
+
+WHATSAPP
+Los enlaces usan el número 51994563553 (Perú). Comprueba que sea el número correcto. Para cambiarlo, busca 51994563553 en index.html y reemplázalo por el número correcto con código de país, sin +, espacios ni guiones.
+
+IMPORTANTE
+- Estos archivos son solo para el sitio estático JMG Tech.
+- No los subas al proyecto Del Chira Grill.
+- El formulario no almacena datos: prepara un mensaje y abre WhatsApp.
+- Conserva la versión anterior como respaldo hasta comprobar la nueva página.
