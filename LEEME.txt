@@ -1,11 +1,7 @@
-JMG TECH - SITIO WEB ACTUALIZADO
+JMG TECH – CATÁLOGO CON IMÁGENES
 
-Archivos:
-- index.html: página web con catálogo de 12 servicios/productos, búsqueda y filtros.
-- logo-jmg-tech.png: logo.
-- laptop.svg, printer.svg, camera.svg, accessory.svg: ilustraciones locales del catálogo.
+Este paquete incluye index.html, el logo y las imágenes del catálogo.
 
-Para publicar: sube todos estos archivos a la misma carpeta del repositorio GitHub Pages que contiene index.html y confirma los cambios.
-WhatsApp de contacto: 994 563 553 (wa.me/51994563553).
+Para actualizar GitHub Pages: sube y reemplaza index.html y carga todos los archivos JPG y logo-jmg-tech.png en la misma carpeta raíz del repositorio. No subas solo el HTML: las imágenes también son necesarias.
 
-Las imágenes son ilustraciones de referencia, no fotografías de modelos o stock real. No se muestran precios inventados; se consulta disponibilidad por WhatsApp.
+Las imágenes son imágenes ilustrativas realistas generadas para mostrar tipos de productos; no garantizan marca/modelo exacto ni stock real. Precios y disponibilidad deben confirmarse por WhatsApp 994 563 553.
