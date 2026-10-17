@@ -1,25 +1,11 @@
-JMG TECH — PÁGINA WEB ACTUALIZADA
-=================================
+JMG TECH — ACTUALIZACIÓN INTERACTIVA PARA GITHUB PAGES
 
-ARCHIVOS
-- index.html: página web adaptable a móviles, con secciones interactivas y formulario que prepara la consulta en WhatsApp.
-- logo-jmg-tech.png: logotipo PNG con transparencia, para evitar el rectángulo de fondo.
+Incluye index.html, logo-jmg-tech.png (PNG con transparencia) y estas instrucciones.
 
-DATOS CORRECTOS
-- WhatsApp: 994 563 553
-- Enlace WhatsApp: https://wa.me/51994563553
-- Zona de atención: Sullana y Piura, Perú
+Funciones: formulario de cotización por WhatsApp; catálogo con búsqueda y filtros para computadoras, impresoras, cámaras y accesorios; galería ilustrativa de áreas de trabajo; preguntas frecuentes desplegables; mapa de referencia de Sullana, Piura; diseño adaptable.
 
-CÓMO ACTUALIZAR EN GITHUB PAGES
-1. Abre el repositorio de tu página web.
-2. En la raíz del repositorio, abre index.html y selecciona el lápiz (Edit).
-3. Reemplaza todo el contenido con el archivo index.html de esta carpeta.
-4. Sube también logo-jmg-tech.png a la raíz del repositorio, en la misma carpeta que index.html.
-5. Guarda con Commit changes.
-6. Espera unos minutos y abre la página web.
-7. Si sigue mostrando la versión anterior, pulsa Ctrl + F5.
+Datos confirmados: WhatsApp 994 563 553; enlace https://wa.me/51994563553; zona de atención Sullana – Piura, Perú.
 
-IMPORTANTE
-- Sube index.html y logo-jmg-tech.png juntos a la raíz del repositorio.
-- No es necesario eliminar el repositorio ni modificar otros proyectos.
-- Los botones de WhatsApp usan el número 51994563553 (Perú).
+Para publicar: descomprime el ZIP; en el repositorio GitHub Pages reemplaza index.html y sube/reemplaza logo-jmg-tech.png en la misma raíz; pulsa Commit changes; espera unos minutos y presiona Ctrl + F5 si ves la versión anterior.
+
+Importante: los dos archivos deben quedar juntos en la raíz del repositorio. El formulario prepara un mensaje y abre WhatsApp, no guarda datos. El mapa es de referencia, no una dirección comercial exacta. La galería es ilustrativa y no representa fotos documentales de trabajos realizados.
