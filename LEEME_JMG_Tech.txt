@@ -1,0 +1,11 @@
+JMG TECH — Sitio web inicial
+
+Abre index.html en Chrome o Edge para probarlo.
+La página se adapta a celular y computadora, incluye menú interactivo, secciones de servicios y productos, botones de consulta y formulario que prepara un mensaje para WhatsApp.
+
+Datos:
+Joel Maldonado García
+WhatsApp: 994 563 553
+Ubicación: Sullana - Piura, Perú
+
+Los productos son categorías de ejemplo y no incluyen precios ni stock inventados. Esta versión no procesa pagos ni guarda pedidos en una base de datos.
