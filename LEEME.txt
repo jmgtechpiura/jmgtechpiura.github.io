@@ -1,7 +1,5 @@
-JMG TECH – CATÁLOGO CON IMÁGENES
+JMG Tech - catálogo por categorías con imágenes de productos.
 
-Este paquete incluye index.html, el logo y las imágenes del catálogo.
+Para publicar: sube index.html, logo-jmg-tech.png y todas las imágenes JPG a la misma carpeta raíz del repositorio de GitHub Pages. Reemplaza el index.html anterior y confirma con Commit changes.
 
-Para actualizar GitHub Pages: sube y reemplaza index.html y carga todos los archivos JPG y logo-jmg-tech.png en la misma carpeta raíz del repositorio. No subas solo el HTML: las imágenes también son necesarias.
-
-Las imágenes son imágenes ilustrativas realistas generadas para mostrar tipos de productos; no garantizan marca/modelo exacto ni stock real. Precios y disponibilidad deben confirmarse por WhatsApp 994 563 553.
+Las imágenes son ilustrativas, no necesariamente el modelo exacto disponible. Consulta precios y stock por WhatsApp 994 563 553.
