@@ -1,5 +1,7 @@
-JMG Tech - catálogo por categorías con imágenes de productos.
+JMG Tech - catálogo por categorías con imágenes de productos y buscador corregido.
 
-Para publicar: sube index.html, logo-jmg-tech.png y todas las imágenes JPG a la misma carpeta raíz del repositorio de GitHub Pages. Reemplaza el index.html anterior y confirma con Commit changes.
+IMPORTANTE: sube index.html, logo-jmg-tech.png y TODOS los archivos JPG a la misma carpeta raíz del repositorio de GitHub Pages. Reemplaza el index.html anterior y confirma con Commit changes. No subas solo el HTML: las imágenes también deben publicarse.
+
+El buscador y los filtros ahora ocultan las tarjetas que no coinciden. Después de publicar, recarga la web con Ctrl + F5.
 
 Las imágenes son ilustrativas, no necesariamente el modelo exacto disponible. Consulta precios y stock por WhatsApp 994 563 553.
