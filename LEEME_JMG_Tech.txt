@@ -1,15 +1,15 @@
-JMG TECH — ACTUALIZACIÓN DE LOGO Y FONDO
+JMG TECH — WEB MEJORADA
 
-Archivos incluidos:
-- index.html: página web actualizada.
-- logo-jmg-tech.png: logotipo gráfico para el encabezado y la sección Nosotros.
-- fondo-tecnologico.jpg: imagen tecnológica para el fondo de la sección principal.
+Incluye:
+- index.html: página web adaptable a computadora y celular.
+- fondo-tecnologico.jpg: banner panorámico nuevo con la imagen tecnológica.
+- logo-jmg-tech.png: logo PNG con fondo transparente.
 
-Cómo publicar en GitHub Pages:
-1. Abre el repositorio https://github.com/jmgtechpiura/jmgtechpiura.github.io
-2. En la raíz del repositorio, reemplaza index.html con el nuevo archivo.
-3. Sube también logo-jmg-tech.png y fondo-tecnologico.jpg a la raíz, al mismo nivel que index.html.
-4. Guarda los cambios con Commit changes.
-5. Espera unos minutos y abre https://jmgtechpiura.github.io/; presiona Ctrl+F5 si aún ves la versión anterior.
+PARA REEMPLAZAR EN GITHUB PAGES:
+1. Descarga y descomprime este ZIP.
+2. En tu repositorio de GitHub, entra en Code.
+3. Sube y reemplaza index.html, fondo-tecnologico.jpg y logo-jmg-tech.png en la raíz del repositorio (al mismo nivel).
+4. Pulsa Commit changes.
+5. Espera unos minutos y abre tu sitio; presiona Ctrl + F5 para forzar la actualización.
 
-Importante: no subas únicamente index.html; las dos imágenes deben estar en la raíz del repositorio para que carguen correctamente.
+El banner ahora queda centrado, con esquinas redondeadas y un ancho máximo para que no parezca pegado a los bordes. El logo PNG tiene transparencia. El enlace de WhatsApp está configurado como 519949563553; verifica el número antes de publicar.
