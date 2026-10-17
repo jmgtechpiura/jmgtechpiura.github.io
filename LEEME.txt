@@ -1,0 +1,16 @@
+JMG TECH — ACTUALIZACIÓN VISUAL
+
+Archivos para GitHub Pages:
+- index.html
+- logo-jmg-tech.png (PNG con transparencia)
+
+Mejoras incluidas:
+- Mejor equilibrio del encabezado y banner, con contenido centrado y adaptable.
+- Logo PNG transparente para evitar el rectángulo de fondo.
+- Tarjetas de “Servicios pensados para resolver” con fondos degradados suaves diferenciados y efectos al pasar el cursor.
+- Mejoras visuales en productos, contacto, botones, accesibilidad y visualización móvil.
+- Contacto: 994 563 553.
+- Ubicación: Sullana - Piura, Perú.
+- Formulario y botones conectan con WhatsApp al número configurado.
+
+Para actualizar: sube index.html y logo-jmg-tech.png a la raíz del repositorio y confirma los cambios.
