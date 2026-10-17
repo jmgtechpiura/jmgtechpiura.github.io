@@ -1,25 +1,25 @@
-JMG TECH — ACTUALIZACIÓN DE LA PÁGINA WEB
+JMG TECH — PÁGINA WEB ACTUALIZADA
+=================================
 
-ARCHIVOS INCLUIDOS
-- index.html: página web actualizada.
-- logo-jmg-tech.png: logotipo PNG con transparencia para evitar el rectángulo de fondo.
+ARCHIVOS
+- index.html: página web adaptable a móviles, con secciones interactivas y formulario que prepara la consulta en WhatsApp.
+- logo-jmg-tech.png: logotipo PNG con transparencia, para evitar el rectángulo de fondo.
 
-MEJORAS INCLUIDAS
-1. Logotipo PNG transparente en el encabezado.
-2. Banner centrado, con mejor espaciado y texto adaptable.
-3. Tarjetas de servicios con fondos degradados suaves y colores diferenciados.
-4. Diseño adaptable a computadora y celular, menú móvil e interacciones.
-5. Formulario de cotización que prepara el mensaje para WhatsApp.
-6. Número de contacto corregido a 994 563 553 y ubicación Sullana - Piura.
+DATOS CORRECTOS
+- WhatsApp: 994 563 553
+- Enlace WhatsApp: https://wa.me/51994563553
+- Zona de atención: Sullana y Piura, Perú
 
-CÓMO SUBIRLO A GITHUB
-1. Abre el repositorio https://github.com/jmgtechpiura/jmgtechpiura.github.io
-2. Entra en index.html y reemplaza todo su contenido por el index.html de este paquete.
-3. Guarda con Commit changes.
-4. Sube también logo-jmg-tech.png a la raíz del repositorio, reemplazando el anterior si te lo pregunta.
-5. Espera 2 a 5 minutos y abre https://jmgtechpiura.github.io/
-6. Presiona Ctrl + F5 para actualizar sin usar la caché.
+CÓMO ACTUALIZAR EN GITHUB PAGES
+1. Abre el repositorio de tu página web.
+2. En la raíz del repositorio, abre index.html y selecciona el lápiz (Edit).
+3. Reemplaza todo el contenido con el archivo index.html de esta carpeta.
+4. Sube también logo-jmg-tech.png a la raíz del repositorio, en la misma carpeta que index.html.
+5. Guarda con Commit changes.
+6. Espera unos minutos y abre la página web.
+7. Si sigue mostrando la versión anterior, pulsa Ctrl + F5.
 
 IMPORTANTE
-El enlace de WhatsApp usa el número peruano 51994563553 (994563553). Comprueba que ese número tenga WhatsApp.
-Este paquete solo corresponde a la página web JMG Tech; no modifica otros proyectos.
+- Sube index.html y logo-jmg-tech.png juntos a la raíz del repositorio.
+- No es necesario eliminar el repositorio ni modificar otros proyectos.
+- Los botones de WhatsApp usan el número 51994563553 (Perú).
